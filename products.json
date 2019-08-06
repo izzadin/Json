@@ -1,0 +1,27 @@
+[
+{
+"name":"small jeans",
+"photo_url":"https://raw.githubusercontent.com/izzadin/Json/master/jeans.jpg",
+"price":19.55
+},
+{
+"name":"shirts",
+"photo_url":"https://raw.githubusercontent.com/izzadin/Json/master/shirt.jpg",
+"price":10.55
+},
+{
+"name":"Bananas",
+"photo_url":"https://raw.githubusercontent.com/izzadin/Json/master/banana.jpg",
+"price":50.0
+},
+{
+"name":"Jalaxy J6+",
+"photo_url":"https://raw.githubusercontent.com/izzadin/Json/master/galaxy.jpg",
+"price":100.99
+},
+{
+"name":"Nice Chair",
+"photo_url":"https://raw.githubusercontent.com/izzadin/Json/master/chair.jpg",
+"price":11.55
+},
+]
